@@ -32,6 +32,7 @@ powershell -ExecutionPolicy Bypass -File .\user-audit.ps1
 
 Below is the script running in PowerShell and exporting the audit CSV:
 
-![Script Output](https://raw.githubusercontent.com/HarrisInfoTech/windows-user-audit/refs/heads/main/Window-user-audit-script.PNG)
+![Script Output](https://raw.githubusercontent.com/HarrisInfoTech/windows-user-audit/main/images/Window-user-audit-script.png)
+
 
 
